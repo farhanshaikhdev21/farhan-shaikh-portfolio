@@ -67,7 +67,7 @@
         {
           "company": "Anuva (Global Gene Corp Pvt. Ltd.)",
           "position": "Full Stack Developer",
-          "period": "Apr 2022 - Feb 2024",
+          "period": "Apr 2022 - Mar 2024",
           "description": "Developed applications using Angular, TypeScript, and Laravel. Built and optimized RESTful APIs. Managed PostgreSQL databases and query performance. Integrated AWS services."
         },
         {
@@ -144,7 +144,7 @@
       "title": "Contact",
       "email": "farhan.shaikh.dev21@gmail.com",
       "phone": "+91 9722600702",
-      "location": "Ahmedabad India"
+      "location": "India"
     },
     "social": {
       "enabled": true,
@@ -188,6 +188,6 @@
   },
   "footer": {
     "enabled": true,
-    "copyright": "© 2026 FARHAN SHAIKH. All rights reserved."
+    "copyright": "© 2025 FARHAN SHAIKH. All rights reserved."
   }
 }
