@@ -1,0 +1,193 @@
+{
+  "settings": {
+    "name": "FARHAN SHAIKH",
+    "title": "Full Stack Developer",
+    "location": "India",
+    "summary": "Experienced Full Stack Developer with 6+ years in PHP, MEAN stack, RESTful APIs, and microservices, delivering high-quality solutions.",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D4D35AQEPOFYQGiaJgQ/profile-framedphoto-shrink_400_400/B4DZx_twXNJEAc-/0/1771669227640?e=1776762000&v=beta&t=gWOz7rn-gKHv8UjwL2SUp6B5P0_Vb2rG07Cx-dFz89s"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:farhan.shaikh.dev21@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Angular",
+          "TypeScript",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "jQuery",
+          "PHP",
+          "Laravel",
+          "CodeIgniter",
+          "Node.js",
+          "MySQL",
+          "PostgreSQL",
+          "MongoDB",
+          "AWS",
+          "Git",
+          "Bitbucket",
+          "JIRA",
+          "Postman",
+          "REST APIs",
+          "MVC Architecture",
+          "Microservices",
+          "CI/CD",
+          "Webhooks",
+          "Cron Jobs",
+          "Socket.io"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Aerocraft Engineering (I) Pvt. Ltd.",
+          "position": "Full Stack Developer",
+          "period": "Apr 2024 - Apr 2026",
+          "description": "Migrated legacy CodeIgniter application to modern Node.js and Angular architecture. Designed scalable RESTful APIs and backend services. Implemented multi-tenant architecture with dynamic MySQL connections. Optimized stored procedures improving performance. Integrated MongoDB for logging and monitoring."
+        },
+        {
+          "company": "Anuva (Global Gene Corp Pvt. Ltd.)",
+          "position": "Full Stack Developer",
+          "period": "Apr 2022 - Feb 2024",
+          "description": "Developed applications using Angular, TypeScript, and Laravel. Built and optimized RESTful APIs. Managed PostgreSQL databases and query performance. Integrated AWS services."
+        },
+        {
+          "company": "Echo Innovate IT Solution",
+          "position": "MEAN Stack Developer",
+          "period": "Sep 2019 - Mar 2022",
+          "description": "Built scalable applications across domains. Integrated third-party APIs. Developed real-time chat systems using Socket.io."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Webhook Integration System for Cricket Live Scoring App",
+          "description": "Developed a webhook integration system to provide real-time updates for a cricket live scoring application.",
+          "tags": [
+            "Webhook",
+            "Integration",
+            "Cricket"
+          ],
+          "previewUrl": "#",
+          "repoUrl": "#"
+        },
+        {
+          "title": "Real-Time Chat Application",
+          "description": "Built a real-time chat application using Node.js and Socket.io for instant messaging capabilities.",
+          "tags": [
+            "Node.js",
+            "Socket.io",
+            "Real-time",
+            "Chat"
+          ],
+          "previewUrl": "#",
+          "repoUrl": "#"
+        },
+        {
+          "title": "Google Drive Cloud Storage Integration",
+          "description": "Integrated Google Drive for cloud storage solutions within an application, enabling file management and access.",
+          "tags": [
+            "Google Drive",
+            "Cloud Storage",
+            "Integration"
+          ],
+          "previewUrl": "#",
+          "repoUrl": "#"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Gujarat University",
+          "degree": "M.Sc. IT (Mobile Application)",
+          "period": "2020"
+        },
+        {
+          "institution": "C. U. Shah Commerce College",
+          "degree": "B.Com",
+          "period": "2018"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": false,
+      "title": "Achievements & Certifications",
+      "items": []
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "farhan.shaikh.dev21@gmail.com",
+      "phone": "+91 9722600702",
+      "location": "Ahmedabad India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/farhan-shaikh-92b861190",
+          "icon": "linkedin"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2026 FARHAN SHAIKH. All rights reserved."
+  }
+}
